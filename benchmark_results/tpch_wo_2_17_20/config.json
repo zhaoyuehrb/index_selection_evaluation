@@ -1,5 +1,6 @@
 {
     "database_system": "postgres",
+    "pickle_workload": true,
     "benchmark_name": "tpch",
     "scale_factor": 10,
     "algorithms": [
